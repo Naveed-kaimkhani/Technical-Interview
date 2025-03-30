@@ -61,7 +61,7 @@ Change `MockAuthRepo()` to `RESTAuthRepo()` when integrating a backend.
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-username/your-repo.git](https://github.com/Naveed-kaimkhani/Technical-Interview)
+   git clone https://github.com/Naveed-kaimkhani/Technical-Interview
    cd your-repo
    ```
 2. Install dependencies:
